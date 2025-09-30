@@ -111,7 +111,6 @@ body {
 }
 
 .Main-imagen--img {
-  width: 190px;
   border-radius: 20px;
   box-shadow: 0 6px 20px rgba(0,0,0,0.5);
   margin-top: 25px;
@@ -136,7 +135,6 @@ body {
   transform: scale(1.07);
   box-shadow: 0 6px 15px rgba(0,0,0,0.5);
 }
-
 /*?CIERRE DE HERO*/
 
 
