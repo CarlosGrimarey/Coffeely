@@ -129,23 +129,6 @@ body {
   margin: 50px auto;
 }
 
-.mision-vision .card {
-  flex: 1;
-  background: #fff;
-  padding: 30px;
-  border-radius: 20px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-  transition: transform 0.3s ease;
-}
-
-.mision-vision .card:hover {
-  transform: translateY(-6px);
-}
-
-.mision-vision h2 {
-  color: #6F4E37;
-  margin-bottom: 15px;
-}
 
 /* Valores */
 .valores {
@@ -320,11 +303,7 @@ body {
     max-width: 80%;
   }
 
-  .mision-vision {
-    flex-direction: column;
-    gap: 20px;
-    padding: 0 20px;
-  }
+
 
   .valores-grid {
     grid-template-columns: 1fr 1fr;
@@ -360,7 +339,7 @@ body {
     flex-direction: column;
     gap: 15px;
     padding: 12px;
-    border-radius: 25px;
+    border-radius: 15px;
   }
 
   .Header-navegacion a {
@@ -381,15 +360,6 @@ body {
     width: 100%;
   }
 
-  .mision-vision {
-    flex-direction: column;
-    gap: 18px;
-    padding: 0 15px;
-  }
-
-  .mision-vision .card {
-    padding: 20px;
-  }
 
   .valores h3 {
     font-size: 22px;

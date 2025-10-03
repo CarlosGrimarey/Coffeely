@@ -220,8 +220,7 @@ body {
 
 /*?FOOTER*/
 .Footer {
-  background: linear-gradient(180deg, #3a1f14, #2c1b1b); /* degradado que se integra */
-  color: #eee;
+  background: linear-gradient(180deg, #3a1f14, #2c1b1b); 
   padding: 40px 20px;
   text-align: center;
   border-top-left-radius: 25px;
